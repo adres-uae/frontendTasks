@@ -3,7 +3,7 @@
 
 Using the following endpoint : https://run.mocky.io/v3/48244d7b-52e9-4b5f-b122-bd763e53fa5c 
 
-Build an application to search and list Logger:
+Build an application to search and list applications Logger:
 
 ![Mock](https://i.ibb.co/DMhqYjw/Screen-Shot-2022-02-04-at-12-15-45-AM.png)
 
