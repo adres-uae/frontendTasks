@@ -11,25 +11,25 @@ Build an application to search and list applications Logger:
 
 - User select the date range to search Logs
 - Display the Results in a table Structire with the following column
-      Log ID
-      Application Type
-      Application ID
-      Action
-      Action Details
-      Date : Time
+      - Log ID
+      - Application Type
+      - Application ID
+      - Action
+      - Action Details
+      - Date : Time
 - Pagination
-      Display 10 records per page
-      Use client side pagination
+      - Display 10 records per page
+      - Use client side pagination
       
 - User will able to sort on all the columns
 - User will able to filter based on mentioned Fields
-      Employee Name
-      Action type 
-      Application type 
-      From Date
-      Select date
-      To Date
-      Application ID 
+      - Employee Name
+      - Action type 
+      - Application type 
+      - From Date
+      - Select date
+      - To Date
+      - Application ID 
 
 ## Conditions
 - You should consume the api endpoint mention and not use it as internal json file
