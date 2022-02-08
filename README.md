@@ -1,7 +1,7 @@
 ![](https://media-exp1.licdn.com/dms/image/C561BAQGgMamiRkXXKg/company-background_10000/0/1642167173910?e=1644004800&v=beta&t=Xz9zywsE04M7o79mlxfdOBO67BpV3JpVRHXKGGT877s)
 ## Developer Challenge
 
-Using the following endpoint : https://run.mocky.io/v3/48244d7b-52e9-4b5f-b122-bd763e53fa5c 
+Using the following endpoint : https://run.mocky.io/v3/a2fbc23e-069e-4ba5-954c-cd910986f40f
 
 Build an application to search and list applications Logger:
 
