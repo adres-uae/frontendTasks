@@ -23,7 +23,7 @@ Build an application to search and list applications Logger:
       
 - **User will able to sort on all the columns**
 - **User will able to filter based on mentioned Fields** : <br>
-       Employee Name <br>
+       Log ID <br>
        Action type <br>
        Application type <br>
        From Date<br>
